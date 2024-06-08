@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Linkedin AI Optimizer",
+    "version": "1.0",
+    "description": "Optimizes Linkedin's 'AI takeaways' by removing the feature from the UI/UX",
+    "permissions": ["activeTab", "scripting", "all_urls"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://*.linkedin.com/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "icons": {
+        "16": "pizza16.png",
+        "32": "pizza32.png",
+        "48": "pizza48.png",
+        "128": "pizza128.png"
+      }
+  }
