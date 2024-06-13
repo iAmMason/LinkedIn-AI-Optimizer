@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "AI Prompt Remover for Linkedin",
+  "name": "aiblock for Linkedin",
   "version": "1.0",
-  "description": "Removes AI prompts from posted content",
+  "description": "Blocks AI-powered takeaway features for desktop users (PC/MacOS)",
   "permissions": [
     "activeTab",
     "scripting"
