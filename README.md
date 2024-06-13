@@ -5,6 +5,7 @@
 - **Repo name and icons updated**
   - Linkedin-AI-Enhancer --> aiBlock-for-LinkedIn
   - Original pizza icons --> custom aiBlock icons
+  - About updated to reflect LinkedIn Article title
     
 
 ## 2024-06-11
