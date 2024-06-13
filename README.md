@@ -1,5 +1,12 @@
 # Changelog
 
+## 2024-06-12
+
+- **Repo name and icons updated**
+  - Linkedin-AI-Enhancer --> aiBlock-for-LinkedIn
+  - Original pizza icons --> custom aiBlock icons
+    
+
 ## 2024-06-11
 
 - **Extension updated**
