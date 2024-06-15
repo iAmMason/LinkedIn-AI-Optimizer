@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "aiblock for Linkedin",
+  "name": "Take Away ai for Linkedin",
   "version": "1.0",
-  "description": "Blocks AI-powered takeaway features for desktop users (PC/MacOS)",
+  "description": "Removes LinkedIn's AI-takeaway features for desktop users (PC/MacOS)",
   "permissions": [
     "activeTab",
     "scripting"
