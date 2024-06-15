@@ -1,5 +1,10 @@
 # Changelog
 
+## 2024-06-14
+- **Repo name updated**
+    - aiBlock-for-LinkedIn --> Take Away ai for Linkedin
+
+
 ## 2024-06-12
 
 - **Repo name and icons updated**
